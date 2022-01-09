@@ -1,0 +1,1 @@
+read about Schema.statics.fn
